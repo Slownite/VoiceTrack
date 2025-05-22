@@ -23,7 +23,6 @@ No cloud upload. No external dependencies. Just Python, Hugging Face, and your a
 - 🎙️ Speaker diarization using `pyannote/speaker-diarization-3.1`
 - 📝 Transcription via `openai/whisper-small` (via Transformers)
 - ⏱️ Timestamp alignment to match text to speaker segments
-- 🌈 Color-coded CLI output
 - 📄 Optional output to text file
 
 ---
